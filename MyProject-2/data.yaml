@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['cat', 'dogs']
+
+roboflow:
+  workspace: potenup09-ofzh2
+  project: myproject-rz2si
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/potenup09-ofzh2/myproject-rz2si/dataset/2
