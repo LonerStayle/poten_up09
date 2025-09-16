@@ -11,3 +11,6 @@ wheels/
 *.pt
 data/
 .env
+
+runs
+yolo_my_project
